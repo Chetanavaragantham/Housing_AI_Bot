@@ -1,4 +1,3 @@
-yaml
 ---
 title: AUM Housing Community Standards AI Chatbot
 emoji: 🏠
