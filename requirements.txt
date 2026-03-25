@@ -1,10 +1,9 @@
-gradio
+streamlit
+google-genai
 langchain
 langchain-community
 langchain-text-splitters
 chromadb
-sentence-transformers
 pypdf
-transformers
-accelerate
-torch
+sentence-transformers
+
